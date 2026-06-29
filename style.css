@@ -1,0 +1,19 @@
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:#111;
+    color:white;
+}
+
+.Para_Ti{
+    position:absolute;
+    width:90%;
+    font-size:2em;
+    background:transparent;
+    transform:translateX(-50%);
+    left:50%;
+    text-align:center;
+}
